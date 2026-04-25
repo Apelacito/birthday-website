@@ -1,0 +1,63 @@
+===========================================
+  GITHUB PE MANUALLY UPLOAD KARNA
+===========================================
+
+STEP 1: GitHub Repo Banao
+-------------------------
+1. Browser khol: https://github.com
+2. Login kar (agar nahi ho toh signup kar - free hai)
+3. Upar right side "+" button pe click
+4. "New repository" select kar
+5. Repository name likh: birthday-website
+6. "Public" select kar (free hai)
+7. "Add a README file" pe TICK kar
+8. "Create repository" button click kar
+
+STEP 2: Files Upload Karo
+-------------------------
+1. Ab teri repo khuli hogi
+2. "Add file" button pe click
+3. "Upload files" select kar
+4. Desktop se ye files yahan DRAG & DROP kar:
+   - Index.html
+   - Script.js
+   - Styles.css
+5. "Commit changes" button click kar
+
+STEP 3: Photos Upload Karo
+--------------------------
+1. Wapas "Add file" → "Upload files"
+2. Photos ek-ek karke upload kar:
+   - photo1.jpg
+   - photo2.jpg
+   - photo3.jpg
+   - photo4.jpg
+   - photo5.jpg
+   - photo6.jpg
+3. "Commit changes" click kar
+
+STEP 4: GitHub Pages Enable Karo
+--------------------------------
+1. Repo ke upar "Settings" tab pe click
+2. Left side menu mein "Pages" pe click
+3. "Source" section mein:
+   - Branch: main
+   - Folder: / (root)
+4. "Save" button click kar
+
+STEP 5: Website Live! 
+---------------------
+2-5 minute wait kar, phir yeh link kholo:
+https://raj-kumar-cse.github.io/birthday-website/
+
+Yeh link PERMANENT hai - kabhi band nahi hoga!
+
+===========================================
+  AGAR PHOTOS UPLOAD MEIN DIKKAT AAYE:
+===========================================
+
+Agar images folder upload nahi ho raha, toh:
+1. https://imgur.com pe jaa
+2. Photos upload kar
+3. Direct link copy kar
+4. Index.html mein "images/photo1.jpg" ki jagah woh link daal de
